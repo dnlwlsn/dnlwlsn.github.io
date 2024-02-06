@@ -1,4 +1,4 @@
-# Secret Service
+# Confession Box
 
 This page was created for the Simply Business 2023 hackathon.
 
